@@ -1,0 +1,92 @@
+[
+    
+    {
+      "author": {
+        "firstName": "Janice",
+        "id": "e52552f4-835d-4dbe-ba77-b076e659774d",
+        "imageUrl": "https://i.pravatar.cc/300?u=e52552f4-835d-4dbe-ba77-b076e659774d",
+        "lastName": "King"
+      },
+      "createdAt": 1655648403000,
+     
+      "id": "02797655-4d73-402e-a319-50fde79e2bc4",
+      "status": "seen",
+      "text": "Test Message 1",
+      "type": "text"
+    },
+    {
+      "author": {
+        "firstName": "Janice",
+        "id": "e52552f4-835d-4dbe-ba77-b076e659774d",
+        "imageUrl": "https://i.pravatar.cc/300?u=e52552f4-835d-4dbe-ba77-b076e659774d",
+        "lastName": "King"
+      },
+      "createdAt": 1655648402000,
+      "id": "4e048753-2d60-4144-bc28-9967050aaf12",
+      "status": "seen",
+      "text": "Test Message 2",
+      "type": "text"
+    },
+    {
+      "author": {
+        "firstName": "Matthew",
+        "id": "82091008-a484-4a89-ae75-a22bf8d6f3ac",
+        "lastName": "White"
+      },
+      "createdAt": 1655648401000,
+      "id": "64747b28-df19-4a0c-8c47-316dc3546e3c",
+      "status": "seen",
+      "text": "Test Message 3",
+      "type": "text"
+    },
+    {
+      "author": {
+        "firstName": "Matthew",
+        "id": "82091008-a484-4a89-ae75-a22bf8d6f3ac",
+        "lastName": "White"
+      },
+      "createdAt": 1655648400000,
+      "id": "6a1a4351-cf05-4d0c-9d0f-47ed378b6112",
+      "status": "seen",
+      "text": "Test Message 4",
+      "type": "text"
+    },
+    {
+      "author": {
+        "firstName": "Matthew",
+        "id": "82091008-a484-4a89-ae75-a22bf8d6f3ac",
+        "lastName": "White"
+      },
+      "createdAt": 1655624463000,
+      "id": "113bb2e8-f74e-42cd-aa30-4085a0f52c58",
+      "status": "seen",
+      "text": "Test Message 5",
+      "type": "text"
+    },
+    {
+      "author": {
+        "firstName": "Janice",
+        "id": "e52552f4-835d-4dbe-ba77-b076e659774d",
+        "imageUrl": "https://i.pravatar.cc/300?u=e52552f4-835d-4dbe-ba77-b076e659774d",
+        "lastName": "King"
+      },
+      "createdAt": 1655624462000,
+      "id": "22212d42-1252-4641-9786-d6f83b2ce4a8",
+      "status": "seen",
+      "text": "Test Message 6",
+      "type": "text"
+    },
+    {
+      "author": {
+        "firstName": "Janice",
+        "id": "e52552f4-835d-4dbe-ba77-b076e659774d",
+        "imageUrl": "https://i.pravatar.cc/300?u=e52552f4-835d-4dbe-ba77-b076e659774d",
+        "lastName": "King"
+      },
+      "createdAt": 1655624461000,
+      "id": "afc2269a-374b-4382-8864-b3b60d1e8cd7",
+      "status": "seen",
+      "text": "Test Message 7",
+      "type": "text"
+    }
+  ]
